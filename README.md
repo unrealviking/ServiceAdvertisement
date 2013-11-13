@@ -1,4 +1,4 @@
 ServiceAdvertisement
 ====================
 
-Service Advertisement Protokoll + Reference Implementation 
+Service Advertisement Protokoll and Reference Implementation
